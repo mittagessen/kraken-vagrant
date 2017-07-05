@@ -12,7 +12,7 @@ target_height=48
 dewarp=center
 display_every=1000
 test_every=1000
-hidden=100
+nhidden=100
 lrate=1e-4
 save_name=arabic
 clstmocrtrain train.txt test.txt
